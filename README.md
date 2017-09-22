@@ -1,4 +1,6 @@
 Preview link:
 https://htmlpreview.github.io/?https://github.com/Rian-Sanjaya/WikipediaViewer/blob/master/index.html
 
-Project of wikipedia search viewer on freecodecamp
+Search wikipedia entry or get a random entry.
+
+Using wikipedia's API.
